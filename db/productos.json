@@ -1,0 +1,74 @@
+[
+    {
+        "id":1,
+        "marca":"adidas",
+        "nombre":"Cartoon Astronaut T-Shirts",
+        "img":"f1.jpg",
+        "color":"#fffb02",
+        "precio":7800,
+        "stock":0
+    },
+    {
+        "id":2,
+        "marca":"adidas",
+        "nombre":"Cartoon Astronaut T-Shirts",
+        "img":"f2.jpg",
+        "color":"#1fd34c",
+        "precio":19430,
+        "stock":3
+    },
+    {
+        "id":3,
+        "marca":"adidas",
+        "nombre":"Cartoon Astronaut T-Shirts",
+        "img":"f3.jpg",
+        "color":"#a42c21",
+        "precio":5999,
+        "stock":0
+    },
+    {
+        "id":4,
+        "marca":"adidas",
+        "nombre":"Cartoon Astronaut T-Shirts",
+        "img":"f4.jpg",
+        "color":"#e421c7",
+        "precio":140777,
+        "stock":300
+    },
+    {
+        "id":5,
+        "marca":"adidas",
+        "nombre":"Cartoon Astronaut T-Shirts",
+        "img":"f5.jpg",
+        "color":"#170a8d",
+        "precio":5999,
+        "stock":200
+    },
+    {
+        "id":6,
+        "marca":"adidas",
+        "nombre":"Cartoon Astronaut T-Shirts",
+        "img":"f6.jpg",
+        "color":"#b6670e",
+        "precio":5999,
+        "stock":200
+    },
+    {
+        "id":7,
+        "marca":"adidas",
+        "nombre":"Cartoon Astronaut T-Shirts",
+        "img":"f7.jpg",
+        "color":"#7d7c7c",
+        "precio":5999,
+        "stock":9
+    },
+    {
+        "id":8,
+        "marca":"adidas",
+        "nombre":"Cartoon Astronaut T-Shirts",
+        "img":"f8.jpg",
+        "color":"#b4b0b0",
+        "precio":5999,
+        "stock":200
+    }
+]
